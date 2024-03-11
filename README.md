@@ -1,4 +1,4 @@
-# selection-sort
+# java selection-sort
 # Selection Sort Algorithm
 # SELECTION SORT(arr, n)  
 # Step 1: Repeat Steps 2 and 3 for i = 0 to n-1  
